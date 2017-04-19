@@ -1,0 +1,27 @@
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe.config
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.pdb
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Form1.resources
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Properties.Resources.resources
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.exe
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.pdb
+C:\Users\pedro\Documents\sistemas operativos\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csprojResolveAssemblyReference.cache
+E:\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe.config
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.exe
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.pdb
+E:\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe
+E:\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.pdb
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csprojResolveAssemblyReference.cache
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Form1.resources
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Properties.Resources.resources
+E:\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe.config
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.exe
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.pdb
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.exe
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\bin\Debug\ProcedimientosRemotos.pdb
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Form1.resources
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.Properties.Resources.resources
+C:\Users\Oscar\Desktop\ProcedimientosRemotos\ProcedimientosRemotos\obj\Debug\ProcedimientosRemotos.csproj.GenerateResource.Cache
